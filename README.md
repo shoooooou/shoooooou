@@ -5,6 +5,6 @@
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt)](https://skillicons.dev)
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,nest,python,c)](https://skillicons.dev)
 ### Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
